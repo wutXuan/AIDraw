@@ -45,4 +45,4 @@ npm run build
 
 ## 演示视频
 
-bilibili：
+bilibili：https://www.bilibili.com/video/BV1EEJA64E25/
